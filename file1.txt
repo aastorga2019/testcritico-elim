@@ -1,0 +1,7 @@
+Se invierten las lineas, en orden 2 https > 2 http > 2 git
+https://aqui.cl/aastorga2019/esteesLaRuraConAastorga20199
+https://aqui.cl/Test-New-organizacion-aastorga2019/esteesLaRutaConChorizoLargo
+http://aqui.cl/aastorga2019/esteesLaRuraConAastorga20199
+http://aqui.cl/Test-New-organizacion-aastorga2019/esteesLaRutaConChorizoLargo
+git@github://aqui.cl/aastorga2019/esteesLaRuraConAastorga20199
+git@github://aqui.cl/Test-New-organizacion-aastorga2019/esteesLaRutaConChorizoLargo
